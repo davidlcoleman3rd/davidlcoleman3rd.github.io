@@ -1,0 +1,23 @@
+$font: Ubuntu, sans-serif;
+$background: navy;
+$textcolor: white;
+$align: right;
+$marginsize: 5px;
+$paddingsize: 8px;
+
+#Main {
+    background-color: $background;
+}
+
+#Body {
+    #Heading {
+        .head {
+            color: $textcolor;
+            text-align: $align;
+            font-family: $font;
+            padding: $paddingsize;
+            margin: $marginsize;
+            width: auto;
+        }
+    }
+}
