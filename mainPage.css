@@ -1,0 +1,12 @@
+#Main {
+  background-color: navy; }
+
+#Body #Heading .head {
+  color: white;
+  text-align: right;
+  font-family: Ubuntu, sans-serif;
+  padding: 8px;
+  margin: 5px;
+  width: auto; }
+
+/*# sourceMappingURL=mainPage.css.map */
